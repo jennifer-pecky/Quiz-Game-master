@@ -23,8 +23,8 @@ h4 {
 
 
 h1 {
-    font-size: 5.4rem;
-    color: cadetblue;
+    font-size: 15rem;
+    color: #01D9D4;
     margin-bottom: 5rem;
 }
 
@@ -89,7 +89,7 @@ h3 {
     padding: 1rem 3rem;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid rgba(36, 46, 51, 0.5);
+    border: 0.1rem solid #01D9D4;
     margin-bottom: 1rem;
     text-decoration: none;
     color: #333;
@@ -101,7 +101,7 @@ h3 {
     padding: 1rem 4rem;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid rgba(36, 46, 51, 0.5);
+    border: 0.1rem solid #01D9D4;
     margin-bottom: 1rem;
     text-decoration: none;
     color: #333;
@@ -110,14 +110,14 @@ h3 {
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(36, 46, 51, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 #01D9D4;
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
 
 .btn-1:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(36, 46, 51, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 #01D9D4;
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }

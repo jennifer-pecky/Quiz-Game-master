@@ -1,6 +1,5 @@
 :root {
     background-image: url(/image/17973863.jpg);
-    /* background-size: 100%; */
     background-position: cover;
     font-size: 62.5%;
     color: #333;
@@ -25,7 +24,7 @@
 
 .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #56a5eb;
+    background-color: #01D9D4;
     color: white;
 }
 
@@ -42,4 +41,12 @@
 
 .head {
     color: #01D9D4;
+}
+
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
 }
